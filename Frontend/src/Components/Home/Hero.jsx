@@ -13,9 +13,16 @@ export default function Hero() {
             Best Invest Company <br /> Since 2011
           </h1>
           <p className="text-lg text-gray-200">
-            Grow your funds with our expert investment strategies and secure
-            future returns.
+            Compresensive financial advice and investment. services that are
+            tailored to meet your individual needs. We are here because we are
+            passionate aboutt open. transparent markets ard aim lo be a major
+            driving force in widespread adoption, we are the first and the best
+            in investment management
           </p>
+          <button className=" bg-pink-700 w-18  h-8 font-bold rounded  ">
+            Register
+          </button><button className=" ml-12 bg-pink-700 w-16  h-8 font-bold rounded "> Login</button>
+         {" "}
         </div>
 
         {/* Right image (replace with your illustration) */}
